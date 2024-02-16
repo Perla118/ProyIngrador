@@ -1,4 +1,5 @@
 using Drivers.Api.Configurations;
+using Drivers.Api.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
